@@ -1,0 +1,12 @@
+body {
+    background:lightgray;
+    width: 100vw;
+    height: 100vh;
+    font-family: "open sans", sans-serif;
+    font-size: 16px;
+    line-height: 1;
+}
+textarea{
+    background: transparent;
+    border: none;
+}
