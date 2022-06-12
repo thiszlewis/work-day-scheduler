@@ -9,4 +9,19 @@ body {
 textarea{
     background: transparent;
     border: none;
+    resize: none;
+    color: rgb(82, 82, 82);
+    border-left: 1px solid rgb(82, 82, 82);
+    padding: 10px;
+    letter-spacing: 1px;
+}
+.jumbotron {
+    background: linear-gradient(to right,#d63031,#6c5ce7);
+    text-align: center;
+    color: white;
+    border-radius: 0;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    margin-bottom: 0px;
+    border-bottom: 10px solid rgb(82, 82, 82);
 }
