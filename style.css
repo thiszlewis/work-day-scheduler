@@ -25,3 +25,26 @@ textarea{
     margin-bottom: 0px;
     border-bottom: 10px solid rgb(82, 82, 82);
 }
+.time-block {
+    text-align: center;
+    border-radius: 15px;
+
+}
+.row{
+    white-space: pre-wrap;
+    height: 80px;
+    border-top: 1px solid white;
+}
+.hour{
+    background-color: #ffffff;
+    border-top: 1px dashed #88898c;
+    
+}
+.past{
+    background-color: #f2eddc;
+
+}
+.saveBtn i:hover{
+    font-size: 26px;
+    transition: all .3s ease-in-out;
+}
