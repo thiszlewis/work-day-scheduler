@@ -44,6 +44,12 @@ textarea{
     background-color: #f2eddc;
 
 }
+.present{
+    background-color: red;
+}
+.future{
+    background-color:green;
+}
 .saveBtn i:hover{
     font-size: 26px;
     transition: all .3s ease-in-out;
